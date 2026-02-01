@@ -23,7 +23,7 @@ In later sprints, UniSwap will include features such as:
 - Resource request and exchange functionality
 
 ## Project Resources
-- GitHub Repository: https://github.com/your-username/UniSwap
+- GitHub Repository: https://github.com/Ashikha2005/UniSwap
 - Kanban Board: (add link)
 
 ## Development Environment
