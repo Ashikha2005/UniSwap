@@ -22,15 +22,13 @@ In later sprints, UniSwap will include features such as:
 - Search and filtering
 - Resource request and exchange functionality
 
+## Project Resources
+- GitHub Repository: https://github.com/your-username/UniSwap
+- Kanban Board: (add link)
+
 ## Development Environment
 Docker is used to ensure all team members can run the same development environment.
 
 To start the environment:
 ```bash
 docker-compose up
-
-## Project Resources
-- GitHub Repository: 
-- Kanban Board: (add link)
-
-
